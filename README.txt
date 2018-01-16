@@ -7,6 +7,8 @@ Mes exemple de code sont dans le dossier ExempleCode,
 ils sont spéaré par projet et il ne contient que le code a l interieur.
 Vous pouvez les lires en les ouvrent avec un editeur de text (exemple: notepad++, visual studio, etc)
 
-Mes games designes se situ dans le document GameDesigne.
+Certain de c'est project sont incomplet mais sont présent pour montré une expérience
+
+Mes games designes se trouve dans le document GameDesigne.
 
 et plus a venir.
