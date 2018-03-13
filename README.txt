@@ -12,3 +12,5 @@ Certain de c'est project sont incomplet mais sont présent pour montré une expéri
 Mes games designes se trouve dans le document GameDesigne.
 
 et plus a venir.
+
+PS : développement d'un projet personnel en cours qui sera publier en ligne.
